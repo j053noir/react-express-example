@@ -1,0 +1,14 @@
+.link {
+  button {
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #333;
+    background-color: #eee;
+
+    &:hover {
+      color: white;
+      background-color: #333;
+    }
+  }
+}
